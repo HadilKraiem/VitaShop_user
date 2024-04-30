@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "907790733415",
+    "project_id": "vitashop-76ad5",
+    "storage_bucket": "vitashop-76ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907790733415:android:c59b27dd606968544c04c2",
+        "android_client_info": {
+          "package_name": "com.example.vita_shop_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907790733415-ern4jfj9lmitagq3oo6fn21cfqcdo340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VGaOfwuveuLAiifimPy7zBD9EYpxuOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907790733415-ern4jfj9lmitagq3oo6fn21cfqcdo340.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907790733415-adaftd9diq2jfq0271gk7a8rsh7tq03l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vitaShopUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907790733415:android:fa1eec60cab501c64c04c2",
+        "android_client_info": {
+          "package_name": "com.example.vita_shop_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907790733415-b975n2shg1bic768jfp6qo872s55o8cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vita_shop_user",
+            "certificate_hash": "ea21a9aeae06474a7510a3a935461d63d17505d8"
+          }
+        },
+        {
+          "client_id": "907790733415-ern4jfj9lmitagq3oo6fn21cfqcdo340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VGaOfwuveuLAiifimPy7zBD9EYpxuOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907790733415-ern4jfj9lmitagq3oo6fn21cfqcdo340.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907790733415-adaftd9diq2jfq0271gk7a8rsh7tq03l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vitaShopUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907790733415-f1bon3bh79363i77vvc5qpua98l9rhee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907790733415-f1bon3bh79363i77vvc5qpua98l9rhee</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>907790733415-b975n2shg1bic768jfp6qo872s55o8cg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC86WH2PAc0vwWwl0FIidchoe4o3VM7kAw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907790733415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vitaShopUser.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>vitashop-76ad5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vitashop-76ad5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907790733415:ios:613184dc015d95c94c04c2</string>
+</dict>
+</plist>
